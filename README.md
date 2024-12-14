@@ -4,4 +4,4 @@ I’m currently learning data mining practices and app development. I am very pa
 
 📲 Best ways to reach me:
 - *Email: maaseidemichael@gmail.com
-- LinkedIn: link[https://www.linkedin.com/in/michael-maaseide-cc9500202a/]
+- LinkedIn: [link](https://www.linkedin.com/in/michael-maaseide-cc9500202a/)

@@ -1,6 +1,6 @@
-### Hi there! I'm Michael Maaseide, a data science student at Northeastern University 🙋‍♂
+### Hi there! I'm Michael Maaseide, a data science student at Northeastern University 
 
-I’m currently learning data mining practices and app development. I am very passionate about my hobbies of puzzles and music and love to engage in side projects related to them. Don't be afraid to reach out!!😁<br>
+I have recently released my first iOS app - ChordCrack! I am currently working as a software engineer at NExT Consulting, and I'm learning a lot about development practices. I am always looking for more ways to keep learning and stay busy, so don't be afraid to reach out!<br>
 
 📲 Best ways to reach me:
 - *Email: maaseidemichael@gmail.com

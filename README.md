@@ -1,4 +1,4 @@
-### Hi there! I'm Michael Maaseide, a data science student at Northeastern University 
+### Hi there! I'm Michael Maaseide, a software engineer at NExT Consulting
 
 I have recently released my first iOS app ChordCrack - learn more at [ChordCrack.com](https://www.chordcrack.com)! I am currently working as a software engineer at NExT Consulting, and I'm learning a lot about development practices. I am always looking for more ways to keep learning and stay busy, so don't be afraid to reach out!<br>
 
